@@ -1,0 +1,144 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Покупки",
+      "colorId": 5
+    },
+    {
+      "id": 2,
+      "name": "Фронтенд",
+      "colorId": 4
+    },
+    {
+      "id": 3,
+      "name": "Фильмы и сериалы",
+      "colorId": 3
+    },
+    {
+      "id": 4,
+      "name": "Книги",
+      "colorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Личное",
+      "colorId": 1
+    },
+    {
+      "id": 6,
+      "name": "Спорт",
+      "colorId": 3
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 2,
+      "text": "Изучить JavaScript",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "listId": 2,
+      "text": "Изучить паттерны проектирования",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "listId": 2,
+      "text": "Redux (redux-observable, redux-saga)",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "listId": 3,
+      "text": "Vikings. Season IV series: Who wants to be King.",
+      "completed": true
+    },
+    {
+      "id": 6,
+      "listId": 3,
+      "text": "Silicon Valley. Season VI Final Series",
+      "completed": true
+    },
+    {
+      "id": 7,
+      "listId": 1,
+      "text": "LG monitor curved 34''",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "listId": 1,
+      "text": "Logitech MX KEYS Keyboard & mouse",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "listId": 6,
+      "text": "С работы до дома ходить пешком (10,000 шагов)",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "listId": 4,
+      "text": "Грокаем алгоритмы",
+      "completed": false
+    },
+    {
+      "listId": 5,
+      "text": "Создать новое приложение на React c/w Hooks ",
+      "completed": false,
+      "id": 11
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
